@@ -1,4 +1,4 @@
-# hackathon
+# Taskcy app
 
 A new Flutter project.
 
